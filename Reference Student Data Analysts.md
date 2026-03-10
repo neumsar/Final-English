@@ -1,0 +1,29 @@
+**Reference Documents for Student Data Analysts**
+
+***Troubleshooting guide***
+
+Problem: The file will not open in RStudio.  
+Solution: Locate the file in your downloads. Right click on it and choose ‘Open with’ then select ‘RStudio’. If RStudio is not shown as an option in the ‘open with’ tab, try opening RStudio first, selecting ‘file’, then ‘open file’ and selecting the downloaded file.
+
+Problem: When I share my GitHub, they are not able to see my code.  
+Solution: Your repository is likely set to private. To fix this, navigate to your repositories, select the repository you want to share and click on the ‘Settings’ tab at the top of the screen with the gear icon. Scroll to the bottom of the page and under ‘Danger Zone’, change visibility to ‘Public’ so others will be able to see your code.  
+![][image1]
+
+Problem: After I uploaded my work, my repository is still empty.  
+Solution: You likely forgot to click the ‘Commit changes’ button after uploading your file. 
+
+Problem: My code is not running and I am not sure why.  
+Solution: Remember to install packages.
+
+***Glossary***
+
+| R | An open-source programming language used for statistical computing and data visualization. |
+| :---- | :---- |
+| RStudio | A platform that uses R to make statistical computing and data visualization easier. |
+| GitHub | A platform for developers to store, share, and collaborate on code. |
+| Repository | A storage location for a project that can include code, data files, images, documents that can be shared to other users.   |
+| .CSV file | A plain text file with values separated by commas with each row being a new record. Can be used in R for data analysis.  |
+| Dataset | An organized collection of information. |
+| User Interface | The representation of software that a user sees.  |
+
+[image1]: <data:image/png;base64,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>
