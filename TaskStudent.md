@@ -6,14 +6,19 @@ This document will include information student data analysts can use to familiar
 - Prerequisites: R and RStudio must already be installed. You must also have RStudio running.   
 1. Navigate to this Github page: [https://github.com/UW-Example-Student/MyFavoriteAlbums](https://github.com/UW-Example-Student/MyFavoriteAlbums) 
 
-You are in the right place if you see these options: ![][image1]
+You are in the right place if you see these options: 
+
+![][image1]
 
 2. Click the **albums\_by\_band.R** file at the top of the page. You will be taken to a preview of the code.  
 3. In the top right corner of the preview page, click the button circled in the screenshot below to download the raw file.   
-   1. ![][image2]  
+   
+    ![][image2]  
 4. Click the downloaded **albums\_by\_band.R** file. It automatically opens in RStudio.
 
-You will be directed to the code used in My Favorite Albums that corresponds to the **Top Albums by Year** page on this website: [https://cholstro.shinyapps.io/shiny-music/](https://cholstro.shinyapps.io/shiny-music/) ![][image3]   
+You will be directed to the code used in My Favorite Albums that corresponds to the **Top Albums by Year** page on this website: [https://cholstro.shinyapps.io/shiny-music/](https://cholstro.shinyapps.io/shiny-music/) 
+
+![][image3]   
 \*Note: This is just an example of how to open code for one specific part of the My Favorite Albums website. To make the My Favorite Albums app work, you will need to download all files. Repeat these steps for any file in the GitHub page mentioned in step 1 to open the rest of the code in RStudio. 
 
 *Uploading code to a repository using GitHub*
@@ -37,7 +42,9 @@ You will be directed to the code used in My Favorite Albums that corresponds to 
 6. Keep **Add Read** selected to ‘off’ unless wanting to add a longer description and overview of the project.  
 7. Keep **No .gitignore** selected because we are not interested in telling GitHub which files not to track.  
 8. Keep **No license** selected because the code is under exclusive copyright by default. \*Note: Steps 3-8 may be adjusted based on goals and demands of the project.   
-9. Click the green **Create repository** button after checking the interface looks like this: ![][image4]
+9. Click the green **Create repository** button after checking the interface looks like this: 
+
+![][image4]
 
 You will be taken to a page that provides a https link for your repository. Make note of this URL.
 
@@ -60,7 +67,9 @@ You will be taken to a page that provides a https link for your repository. Make
 2. In the repository, click the blue **data** folder at the top. A folder opens. There should be only one file within the folder: **album-rankings.csv**.  
 3. Click **album-rankings.csv**.  
    1. As shown below, a preview of the .csv file used for the album ranking software appears.  
-4. At the top right corner of the page, click the icon with an arrow pointing down.![][image5]
+4. At the top right corner of the page, click the icon with an arrow pointing down.
+
+![][image5]
 
 Doing so will download the raw data.
 
