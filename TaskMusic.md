@@ -10,7 +10,8 @@ This document will cover all the ways music enthusiasts can interact with this w
 3. Drag either circle until the blue labels on top of the circles reflect the range of years you want to evaluate for top albums.
 
 \*Note: If the circles are stacked on top of each other, it will only show top albums from that particular year.   
-For example, if interested in the years 2022-2024, the interface appears like this: ![][image1]
+For example, if interested in the years 2022-2024, the interface appears like this: 
+![][image1]
 
 4. Repeat for any combination of years\!
 
