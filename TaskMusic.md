@@ -11,6 +11,7 @@ This document will cover all the ways music enthusiasts can interact with this w
 
 \*Note: If the circles are stacked on top of each other, it will only show top albums from that particular year.   
 For example, if interested in the years 2022-2024, the interface appears like this: 
+
 ![][image1]
 
 4. Repeat for any combination of years\!
@@ -37,7 +38,9 @@ For year 2004, this is what the interface should look like:
 4. Scroll through the alphabetized list of artists and select the artist you are interested in.   
 5. Click the **submit** button under the menu. The output should display a list of that artist's albums, their year created, and their rating (1-10) as well as a summary of the number of albums ranked and that artist's average rating.
 
-For example, if the **Arctic Monkeys** are selected, the output should look like this:![][image2]
+For example, if the **Arctic Monkeys** are selected, the output should look like this:
+
+![][image2]
 
 6. Repeat for any artist\!
 
@@ -52,11 +55,12 @@ For example, if the **Arctic Monkeys** are selected, the output should look like
 
 \*Note: These numbers represent artists with at least that number of albums ranked by the author. For example, if 2 is selected, only artists with at least 2 albums ranked will appear.
 
-5. If only interested in studio albums, keep the **Exclude EPs and Live Albums** box checked. ![][image3]  
+5. If only interested in studio albums, keep the **Exclude EPs and Live Albums** box checked. 
+![][image3]  
    1. If interested in EPs and Live albums, click the check box once and these will be included in the output.   
 6. Click the **submit button** under the menu.
 
-For example, with a minimum of 10 albums and excluding EPs and live albums, the output should look like this:  
+For example, with a minimum of 10 albums and excluding EPs and live albums, the output should look like this: 
  ![][image4]
 
 7. Repeat for any minimum number of albums\!
@@ -74,7 +78,9 @@ For example, with a minimum of 10 albums and excluding EPs and live albums, the 
 
 The graph at the bottom of the page should update with the first artist selected in red and the second in blue. The x axis represents the year each of the artists’ albums were created and the y axis represents the rating each of the albums received by the author.   
 \*Note: if the same artist is selected twice, the graph will show the data in blue.  
-If **Admiral Fallow** and **Ben Folds** are selected, the output should look like this:![][image5]
+If **Admiral Fallow** and **Ben Folds** are selected, the output should look like this:
+
+![][image5]
 
 6. Repeat for any two artists\!
 
@@ -89,7 +95,9 @@ If **Admiral Fallow** and **Ben Folds** are selected, the output should look lik
 
 5. Click the **submit** button under the menu.
 
-For example, if **Only 10 ratings** is selected, the output should look like this: ![][image6]
+For example, if **Only 10 ratings** is selected, the output should look like this: 
+
+![][image6]
 
 6. Repeat for any minimum rating.
 
